@@ -1,0 +1,12 @@
+E:\Programs\AzureServiceBus\SampleASBShared\SampleASBShared\bin\Debug\net5.0\SampleASBShared.deps.json
+E:\Programs\AzureServiceBus\SampleASBShared\SampleASBShared\bin\Debug\net5.0\SampleASBShared.dll
+E:\Programs\AzureServiceBus\SampleASBShared\SampleASBShared\bin\Debug\net5.0\SampleASBShared.pdb
+E:\Programs\AzureServiceBus\SampleASBShared\SampleASBShared\obj\Debug\net5.0\SampleASBShared.csproj.AssemblyReference.cache
+E:\Programs\AzureServiceBus\SampleASBShared\SampleASBShared\obj\Debug\net5.0\SampleASBShared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\AzureServiceBus\SampleASBShared\SampleASBShared\obj\Debug\net5.0\SampleASBShared.AssemblyInfoInputs.cache
+E:\Programs\AzureServiceBus\SampleASBShared\SampleASBShared\obj\Debug\net5.0\SampleASBShared.AssemblyInfo.cs
+E:\Programs\AzureServiceBus\SampleASBShared\SampleASBShared\obj\Debug\net5.0\SampleASBShared.csproj.CoreCompileInputs.cache
+E:\Programs\AzureServiceBus\SampleASBShared\SampleASBShared\obj\Debug\net5.0\SampleASBShared.dll
+E:\Programs\AzureServiceBus\SampleASBShared\SampleASBShared\obj\Debug\net5.0\refint\SampleASBShared.dll
+E:\Programs\AzureServiceBus\SampleASBShared\SampleASBShared\obj\Debug\net5.0\SampleASBShared.pdb
+E:\Programs\AzureServiceBus\SampleASBShared\SampleASBShared\obj\Debug\net5.0\ref\SampleASBShared.dll
